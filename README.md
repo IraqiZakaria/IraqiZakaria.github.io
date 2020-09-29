@@ -4,12 +4,9 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
  
 ## Working papers
 * **Learning to bid in multi-item VCG auction using Reinforcement learning**,([see](Learning_to_bid.pdf)) _with Amine Natik_.
- 
-* **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. ([abstract](Extended_Affine_Abstract.pdf))
-Winner of Ecole Polytechnique's Grand Prize of research internship.
 
 ## Research Projects
-* [**On random minimal factorizations of large n-cycles**](Rapport_P2.pdf) ([see](Rapport_P2.pdf)), _with Yassine El Maazouz & Igor Kortchemski_.
+* [**Dual approach for american options**](report.pdf) ([see](report.pdf)), _with Mohamed Fellaji_.
 
 * [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see](Linear_Programming_and_Tropical_Geometry.pdf))
 _with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
@@ -22,7 +19,7 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
 
 ## Other projects
 
-For various projects, feel free to visit my [github](https://github.com/IraqiZakaria)
+For various projects, feel free to visit my [github page](https://github.com/IraqiZakaria).
 
 ## Contact
 I will be reachable through my personal email adress [zakaria.iraqui@gmail.com](mailto:zakaria.iraqui@gmail.com)
