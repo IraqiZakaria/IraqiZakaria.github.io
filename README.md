@@ -18,17 +18,11 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
 * [**Simulating rare events with Hawkes processes**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
 ([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
 
-## Submitted papers
-* [**Blind steganalysis based on the wavelet leaders spectrum**](EUSIPCO_2018_wavestega_final.pdf) ([see](EUSIPCO_2018_wavestega_final.pdf)), _with Remi Cornillet1, Marianne Clausel2, Farida Enikeeva1, Laurent Navarro, Pierre Carre_
 
 
-## For highschool students preparing IMO
-We founded an organization Math&Maroc with previous International Mathematical Olympiad (IMO) contestants to help you train for IMO, visit [www.mathemaroc.com](http://www.mathemaroc.com) for more informations.
-You can in particular find courses I wrote on the publication section. [Here](http://www.mathemaroc.com/journal/MatheMarocNo3Vol12017.pdf) is one of them!
+## Other projects
 
+For various projects, feel free to visit my [github](https://github.com/IraqiZakaria)
 
-## For CPGE students
-Here are some courses summaries I made that might help you: [Fiches de cours](MohammedAmine-Bennouna.github.io/Fiches de cours - Amine Bennouna.7z).
-You can also find my prépa research report (TIPE) about Prince Rupert's Drop [here](MohammedAmine-Bennouna.github.io/La Goutte Du Prince Rupert - Dossier.pdf).
-
-      
+## Contact
+I will be reachable through my personal email adress [zakaria.iraqui@gmail.com](mailto:zakaria.iraqui@gmail.com)
