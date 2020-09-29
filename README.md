@@ -9,16 +9,7 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 * [**Dual approach for american options**](report.pdf) ([see](report.pdf)), _with Mohamed Fellaji_. See [github repository](https://github.com/IraqiZakaria/American_options_dual_approach) for C++ code.	
 
 
-* [**Implementation**](project_report.pdf) of  [**Simulating and analyzing order bookdata : The queue-reactive model, Weibing Huang, Charles-Albert Lehalle and Mathieu Rosenbaum, 2014**](https://arxiv.org/pdf/1312.0563) ([see](project_report.pdf)), _ Financial time series course, Emmanuel Bacry_. See [github repository](https://github.com/IraqiZakaria/Implementation-queue-reactive-model-article)for code implementation and data.	
-
-* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see](Linear_Programming_and_Tropical_Geometry.pdf))
-_with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
-This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
- 
-* [**Simulating rare events with Hawkes processes**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
-([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
-
-
+* [**Implementation**](project_report.pdf) of  [**Simulating and analyzing order bookdata : The queue-reactive model, Weibing Huang, Charles-Albert Lehalle and Mathieu Rosenbaum, 2014**](https://arxiv.org/pdf/1312.0563) ([see](project_report.pdf)), _ Financial time series course, Emmanuel Bacry_. See [github repository](https://github.com/IraqiZakaria/Implementation-queue-reactive-model-article) for code implementation and data.	
 
 ## Other projects
 
