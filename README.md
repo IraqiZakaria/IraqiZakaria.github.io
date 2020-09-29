@@ -18,6 +18,8 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
 * [**Simulating rare events with Hawkes processes**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
 ([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
 
+## Submitted papers
+* [**Blind steganalysis based on the wavelet leaders spectrum**](EUSIPCO_2018_wavestega_final.pdf) ([see](EUSIPCO_2018_wavestega_final.pdf)), _with Remi Cornillet1, Marianne Clausel2, Farida Enikeeva1, Laurent Navarro, Pierre Carre_
 
 
 ## For highschool students preparing IMO
