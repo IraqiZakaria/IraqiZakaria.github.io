@@ -3,7 +3,7 @@
 Prior to joining OCP Solutions, I interned within JP Morgan's quantitative research team, focusing on FX Options derivatives, and graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) and [Sorbonne University](https://en.wikipedia.org/wiki/Sorbonne_University)  majoring in financial mathematics. I also obtained a mathematical engineering degree from [Ecole des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy),  and completed two years of preparatory program (CPGE).  
  
 ## Working papers
-* **Learning to bid in multi-item VCG auction using Reinforcement learning**,([see](Learning_to_bid_in_multi-item_VCG_auction_using Reinforcement_learning.pdf)) _with Amine Natik.
+* **Learning to bid in multi-item VCG auction using Reinforcement learning**,([see](Learning_to_bid.pdf)) _with Amine Natik_.
  
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. ([abstract](Extended_Affine_Abstract.pdf))
 Winner of Ecole Polytechnique's Grand Prize of research internship.
