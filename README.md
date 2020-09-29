@@ -1,5 +1,7 @@
-I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
+﻿I am a full time quantitative research consultant within OCP Solutions, working on solving large industrial problems. I am also passionate about Artificial intelligence in general, and currently working on various personal projects related to multi-agent reinforcement learning and real-time-bidding. My background includes financial mathematics, statistics and machine learning, and I will be interested by research opportunities within these fields, either be It in an industrial, financial, or academic institution.
 
+Prior to joining OCP Solutions, I interned within JP Morgan's quantitative research team, focusing on FX Options derivatives, and graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) and [Sorbonne University](https://en.wikipedia.org/wiki/Sorbonne_University)  majoring in financial mathematics. I also have an mathematical engineering degree from [Ecole des Mines de Nancy]{https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy},  and completed two years of preparatory program (CPGE).  
+ 
 ## Working papers
 * **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
  
