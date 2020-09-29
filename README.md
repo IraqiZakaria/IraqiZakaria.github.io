@@ -6,7 +6,7 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 * **Learning to bid in multi-item VCG auction using Reinforcement learning**,([see](Learning_to_bid.pdf)) _with Amine Natik_.
 
 ## Research Projects
-* [**Dual approach for american options**](report.pdf) ([see](report.pdf)), _with Mohamed Fellaji_.
+* [**Dual approach for american options**](report.pdf) ([see](report.pdf)), _with Mohamed Fellaji_. See (github repository)[https://github.com/IraqiZakaria/American_options_dual_approach] for C++ code.	
 
 * [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see](Linear_Programming_and_Tropical_Geometry.pdf))
 _with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
