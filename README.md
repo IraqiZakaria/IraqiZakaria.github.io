@@ -11,17 +11,17 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 
 * [**Implementation**](project_report.pdf) of  [**Simulating and analyzing order bookdata : The queue-reactive model, Weibing Huang, Charles-Albert Lehalle and Mathieu Rosenbaum, 2014**](https://arxiv.org/pdf/1312.0563) ([see](project_report.pdf)), _Financial time series course, Emmanuel Bacry_. See [github repository](https://github.com/IraqiZakaria/Implementation-queue-reactive-model-article) for code implementation and data.	
 
-
-- [
 ## Other projects
 
 * [**Survival bidding game**](Projet Blockchain Fintech 2019.pdf) [**project**](Projet_Blockchain.pdf) 
-For various projects, feel free to visit my [github page](https://github.com/IraqiZakaria).
 
 * [**Training a CNN using CIFAR 10 data**](Cifar10.pdf) 
 
 * [**Webscraping and using glassdoor data as a stock signal**](glassdoor project.pdf) 
 
+For various projects, feel free to visit my [github page](https://github.com/IraqiZakaria).
+
 ## Contact and CV
 An up to date CV can be found [here](CV.pdf)
+
 I will be reachable through my personal email adress [zakaria.iraqui@gmail.com](mailto:zakaria.iraqui@gmail.com)
