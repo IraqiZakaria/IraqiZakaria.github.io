@@ -13,11 +13,11 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 
 ## Other projects
 
-* [**Survival bidding game**](Projet Blockchain Fintech 2019.pdf) [**project**](Projet_Blockchain.pdf) 
+* [**Survival bidding game**](Projet_Blockchain_Fintech_2019.pdf) [**project analysis**](Projet_Blockchain.pdf) 
 
 * [**Training a CNN using CIFAR 10 data**](Cifar10.pdf) 
 
-* [**Webscraping and using glassdoor data as a stock signal**](glassdoor project.pdf) 
+* [**Webscraping and using glassdoor data as a stock signal**](glassdoor_project.pdf) 
 
 For various projects, feel free to visit my [github page](https://github.com/IraqiZakaria).
 
