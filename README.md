@@ -14,7 +14,7 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 * [**Implementation**](project_report.pdf) of  [**Simulating and analyzing order bookdata : The queue-reactive model, Weibing Huang, Charles-Albert Lehalle and Mathieu Rosenbaum, 2014**](https://arxiv.org/pdf/1312.0563) ([see](project_report.pdf)), _Financial time series course, Emmanuel Bacry_. See [github repository](https://github.com/IraqiZakaria/Implementation-queue-reactive-model-article) for code implementation and data.	
 
 ## Prepublished articles
-* [**Blind steganalysis based on the wavelet leaders spectrum**](EUSIPCO_2018_wavestega_final.pdf),_with Remi Cornillet, Marianne Clausel, Farida Enikeeva, Laurent  Navarro, Philippe Carre_
+* [**Blind steganalysis based on the wavelet leaders spectrum**](EUSIPCO_2018_wavestega_final.pdf),_with Remi Cornillet, Marianne Clausel, Farida Enikeeva, Laurent  Navarro, Philippe Carre_.
 
 ## Other projects
 
