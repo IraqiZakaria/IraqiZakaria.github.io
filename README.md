@@ -18,7 +18,7 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 
 ## Other projects
 
-* [**Survival bidding game**](Projet_Blockchain_Fintech_2019.pdf) [**project analysis**](Projet_Blockchain.pdf) 
+* [**Survival bidding game**](Projet_Blockchain_Fintech_2019.pdf)problem, [**project analysis**](Projet_Blockchain.pdf) 
 
 * [**Training a CNN using CIFAR 10 data**](Cifar10.pdf) 
 
