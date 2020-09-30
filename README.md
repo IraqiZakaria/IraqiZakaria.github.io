@@ -27,7 +27,7 @@ Prior to joining OCP Solutions, I interned within JP Morgan's quantitative resea
 For various projects, feel free to visit my [github page](https://github.com/IraqiZakaria).
 
 ## Miscelaneous
-I love traveling, photography and hiking, and will always enjoy taking a picture of the mountains by sunset. 
+I love traveling, photography and hiking, and will always enjoy taking a picture of mountains by sunset. 
 
 ## Contact and CV
 An up to date CV can be found [here](CV.pdf)
