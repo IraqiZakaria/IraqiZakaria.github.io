@@ -2,7 +2,7 @@
  
 My background includes financial mathematics, statistics and machine learning.
 
-Prior to joining Tibra, I worked as OCP as a full time quantitative research consultant within OCP Solutions, working on solving large industrial problemss, prior to that, I interned within JP Morgan's quantitative research team, focusing on FX Options derivatives, and graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) and [Sorbonne University](https://en.wikipedia.org/wiki/Sorbonne_University)  majoring in financial mathematics. I also obtained a mathematical engineering degree from [Ecole des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy),  and completed two years of preparatory program (CPGE).  
+Prior to joining Tibra, I worked at OCP as a full time quantitative research consultant within OCP Solutions, working on solving large industrial problemss, prior to that, I interned within JP Morgan's quantitative research team, focusing on FX Options derivatives, and graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) and [Sorbonne University](https://en.wikipedia.org/wiki/Sorbonne_University)  majoring in financial mathematics. I also obtained a mathematical engineering degree from [Ecole des Mines de Nancy](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Nancy),  and completed two years of preparatory program (CPGE).  
  
 ## Working papers
 * **Learning to bid in multi-item VCG auction using Reinforcement learning**,([see](Learning_to_bid.pdf)) _with Amine Natik_.
